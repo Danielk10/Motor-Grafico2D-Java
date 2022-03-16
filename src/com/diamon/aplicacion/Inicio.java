@@ -4,8 +4,9 @@ public class Inicio {
 
 	public static void main(String[] args) {
 
-
-		System.out.println("Hola");
+		Prueba juego = new Prueba();
+		
+		juego.setPantallaCompleta(true);
 
 	}
 
